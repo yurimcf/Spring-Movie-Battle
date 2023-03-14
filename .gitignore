@@ -28,7 +28,6 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-src/main/java/br/ada/americanas/moviebattle/player
 
 ### VS Code ###
 .vscode/
